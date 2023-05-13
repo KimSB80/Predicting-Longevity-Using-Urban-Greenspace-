@@ -1,2 +1,3 @@
-# Springboard-Capstone-2
-Performed data wrangling, exploratory data analysis, and modeling to predict what factors contribute to longevity (lifespan) in London boroughs.
+# Predicting Longevity Using Urban Greenspace
+
+This project develops a model to predict longevity using well-being indicators such as access to public greenspace, childhood obesity rates, crime rates, and unemployment. I used [Kaggle dataset] (https://www.kaggle.com/datasets/jarxrr/london-ward-wellbeing-scores) focused on the London Boroughs that includes 12 different well-being indicators combined with a second dataset that uses a different metric for urban greenspace. I performed data wrangling, exploratory data analysis, and modeling to predict what factors contribute to longevity (lifespan) in London boroughs.
