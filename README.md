@@ -22,6 +22,9 @@ This is a regression problem in supervised machine learning. I tested the follow
 
 I used r-squared and MAE to determine that the gradient boosting model performed the best, and then used GridSearchCV to tune hyperparameters using k-fold cross-validation. 
 
+![download](https://github.com/KimSB80/Predicting-Longevity-Using-Urban-Greenspace-/assets/124254338/e01a4835-10f5-4648-82ee-02f3d67f3552)
+
+
 ## Key Findings:
 #### 1. The most important predictor of longevity is unemployment rate. 
 Unemployment rate indicates the percentage of working-age residents claiming unemployment benefits in that Ward. This, unsurprisingly, suggests that there is a high degree of stress related to being unemployed that negatively impacts longevity. 
