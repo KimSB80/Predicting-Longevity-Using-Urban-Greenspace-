@@ -15,10 +15,10 @@ I used ColumnTransformer to create a pipeline that performed one-hot-encoding on
 ## Modeling
 This is a regression problem in supervised machine learning. I tested the following four regression models:
 
--- Linear Regression
--- Random Forest
--- Gradient Boosting Regressor
--- Support Vector Regressor (SVR)
+-- Linear Regression<br>
+-- Random Forest<br>
+-- Gradient Boosting Regressor<br>
+-- Support Vector Regressor (SVR)<br>
 
 I used r-squared and MAE to determine that the gradient boosting model performed the best, and then used GridSearchCV to tune hyperparameters using k-fold cross-validation. 
 
