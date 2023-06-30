@@ -1,4 +1,5 @@
 # Predicting Longevity Using Urban Greenspace
+![1684945052794](https://github.com/KimSB80/Predicting-Longevity-Using-Urban-Greenspace-/assets/124254338/975bef07-6cbf-42c0-af73-a58c50e3b987)
 
 ## Problem Statement
 Access to urban greenspace is becoming increasingly important as cities continue to grow, and studies have linked access to greenspace (e.g. parks, gardens) to mental well-being (Thompson et al. 2016). Over the past few years, London’s local government has been making a push for “greening London”; the London Plan 2021 outlines an integrated environmental strategy for increasing urban greenspace. For this project, I developed a model to predict which factors are most important for longevity within the London wards.
